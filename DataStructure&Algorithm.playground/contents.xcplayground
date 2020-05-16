@@ -17,5 +17,6 @@
         <page name='InsertionSort'/>
         <page name='MergeSort'/>
         <page name='RadixSort'/>
+        <page name='HeapSort'/>
     </pages>
 </playground>
