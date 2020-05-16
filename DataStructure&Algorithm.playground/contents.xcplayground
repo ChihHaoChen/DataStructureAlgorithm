@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='LinkedListPlayground'/>
+        <page name='StackPlayground'/>
+        <page name='QueuesPlayground'/>
+        <page name='Trees'/>
+        <page name='BinaryTree'/>
+        <page name='BinarySearchTree'/>
+        <page name='AVLTree'/>
+        <page name='Trie'/>
+        <page name='BinarySearch'/>
+        <page name='HeapTest'/>
+        <page name='PriorityQueue'/>
+        <page name='BubbleSort'/>
+        <page name='SelectionSort'/>
+        <page name='InsertionSort'/>
+        <page name='MergeSort'/>
+    </pages>
+</playground>
