@@ -18,5 +18,6 @@
         <page name='MergeSort'/>
         <page name='RadixSort'/>
         <page name='HeapSort'/>
+        <page name='QuickSort'/>
     </pages>
 </playground>
